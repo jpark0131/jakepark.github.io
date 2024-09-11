@@ -1,0 +1,5 @@
+title: Jake Park: Portfolio
+description: This is my GitHub Pages site built with Jekyll
+baseurl: ""
+url: "https://jakeparkportfolio.github.io"
+theme: minima
